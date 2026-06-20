@@ -1,0 +1,26 @@
+# Archivos compilados y ejecutables
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+*.obj
+*.pdb
+*.ilk
+
+# Archivos y carpetas generados por Visual Studio
+.vs/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+Debug/
+Release/
+x64/
+x86/
+
+# Archivos temporales del sistema operativo
+Thumbs.db
+Desktop.ini
+.DS_Store
