@@ -3,8 +3,10 @@
 A fully functional Rubik's Cube simulator developed in C++ using a procedural paradigm. It features a colored console interface to visualize rotations and state changes in real-time. 
 
 ### Initial State (Solved)
+<img width="1462" height="452" alt="init" src="https://github.com/user-attachments/assets/4554f94a-baea-4bb6-ad01-88f5d6c5b210" />
 
 ### Scrambled State (Randomized)
+<img width="1462" height="452" alt="randomized" src="https://github.com/user-attachments/assets/d5890a9c-194e-4fc8-823a-1a50ccc781d6" />
 
 ### Key Features
 
