@@ -19,7 +19,7 @@ A fully functional Rubik's Cube simulator developed in C++ using a procedural pa
 * **Spanish Interface**: The console menus and instructions are natively in Spanish.
 
 ### Context
-Developed as a coursework project for Technology of Programming I at UCM. The goal was to master structured programming, memory management, and array manipulation before transitioning to OOP.
+Developed as a coursework project for _Computer Programming Technology I_ at UCM. The goal was to master structured programming, memory management, and array manipulation before transitioning to OOP.
 
 ### Requirements
 
